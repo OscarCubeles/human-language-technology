@@ -1,0 +1,8 @@
+notebook
+spacy
+pandas
+numpy
+nltk
+scikit-learn
+word2number
+wikiextractor # did not worked for us
